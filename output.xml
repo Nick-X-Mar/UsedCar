@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<cars>
+  <car>
+    <client>ilias</client>
+    <dealership>giannos</dealership>
+    <carGrId>333650546</carGrId>
+    <carTitle>Hyundai i 10 2016</carTitle>
+    <fields1>
+      <tag_b2f41f5cfa908aca4295b842806cebc64fe41465e1661562a79e21c3120f272b>Hyundai</tag_b2f41f5cfa908aca4295b842806cebc64fe41465e1661562a79e21c3120f272b>
+      <tag_8e38368f5ffd93e1a4393761d0f4e31f39c0ae5ec0090ce1e234d717acb16e61>i 10</tag_8e38368f5ffd93e1a4393761d0f4e31f39c0ae5ec0090ce1e234d717acb16e61>
+      <tag_72fb50a8f87ed7c935e05814300e76c41212ff3e9c20dbf643ca3afb94f2509c>Hyundai i 10 LPG BOOK SRVICE '16</tag_72fb50a8f87ed7c935e05814300e76c41212ff3e9c20dbf643ca3afb94f2509c>
+      <tag_d0140f626c5c449f2d2ce22531bf260899521948ef2a7621d045adddbcc75d10>333650546</tag_d0140f626c5c449f2d2ce22531bf260899521948ef2a7621d045adddbcc75d10>
+      <tag_8e3801eb7ea81a1175a45192058758eca8846e27b43b0a7bb52329f31a54a333>7800</tag_8e3801eb7ea81a1175a45192058758eca8846e27b43b0a7bb52329f31a54a333>
+      <tag_a8432c2acaa597d7ec2cf9635ae9e49565c212f3c3b29f03245a5c2ad70581a0>Μεταχειρισμένο</tag_a8432c2acaa597d7ec2cf9635ae9e49565c212f3c3b29f03245a5c2ad70581a0>
+      <tag_b1bd690085790998707b4ef9bd90d4c5ba2d43fe5a1a5d69a36ccfee72f6f5a6>Κόμπακτ / Hatchback</tag_b1bd690085790998707b4ef9bd90d4c5ba2d43fe5a1a5d69a36ccfee72f6f5a6>
+      <tag_6afd21b9431a5c3b001ebaadd4a56063d9d5c39e62767051e69258ae27d8578c>2016</tag_6afd21b9431a5c3b001ebaadd4a56063d9d5c39e62767051e69258ae27d8578c>
+      <tag_9f0a8d3a540750f839f5739aa5d0fd9999a9de90704e177408f99a6a4afc093d>180000</tag_9f0a8d3a540750f839f5739aa5d0fd9999a9de90704e177408f99a6a4afc093d>
+      <tag_7bf15b763b370b92378b9eb944a3c13e909bbd9abfa7b4a29cec8ec5e7aac6cb>Αέριο(lpg) - βενζίνη</tag_7bf15b763b370b92378b9eb944a3c13e909bbd9abfa7b4a29cec8ec5e7aac6cb>
+      <tag_63e5d7e03c563b0241715fee2f8d9e934d2d631df304da33ee7dce4c6c59f5ac>1000</tag_63e5d7e03c563b0241715fee2f8d9e934d2d631df304da33ee7dce4c6c59f5ac>
+      <tag_8d81844d8ad3198de7bd96be99f6b9470fe93f0a6a9d35ea47d82e260a588183>70</tag_8d81844d8ad3198de7bd96be99f6b9470fe93f0a6a9d35ea47d82e260a588183>
+      <tag_b1ec6bf6ab0b16094001c1f36d4ff5e7a0cda98088dd2bc15ce36a6631e8f228>Χειροκίνητο</tag_b1ec6bf6ab0b16094001c1f36d4ff5e7a0cda98088dd2bc15ce36a6631e8f228>
+      <tag_da6bac732401b06c9b0f92c6b2a54f59dc12736fab7c8975c3491ef96896e985>Ασπρο (Μεταλλικό)</tag_da6bac732401b06c9b0f92c6b2a54f59dc12736fab7c8975c3491ef96896e985>
+      <tag_d6fa0379e37c92a6a27759efb9106d56ba9acc5214e7e0b5b554b0b169d1de3b>Άγνωστο</tag_d6fa0379e37c92a6a27759efb9106d56ba9acc5214e7e0b5b554b0b169d1de3b>
+      <tag_28a5a7c0d5ba7fda7e7f200291b39f4209e66a0d3c1f457cbbe40b777231753e>4</tag_28a5a7c0d5ba7fda7e7f200291b39f4209e66a0d3c1f457cbbe40b777231753e>
+      <tag_135349428cab6cb0d16a350554a4b47d56e4185c48a7f86b43b86f4ffc3ae165>5</tag_135349428cab6cb0d16a350554a4b47d56e4185c48a7f86b43b86f4ffc3ae165>
+      <tag_7304db5692e2be749999c81e6b3dc5b4f32a98be48ccbfce0d679bb64aed8c22>5</tag_7304db5692e2be749999c81e6b3dc5b4f32a98be48ccbfce0d679bb64aed8c22>
+      <tag_260af0005d9a90e6d9e41a3002bbad477498cfdb411b1e8de5efc6e11628f63c>4 λεπτά πριν</tag_260af0005d9a90e6d9e41a3002bbad477498cfdb411b1e8de5efc6e11628f63c>
+      <tag_6b2b01699623b8a4a5d6d44e71e1dda5315f3c2b258b4411461c74e1f0ea3220>0</tag_6b2b01699623b8a4a5d6d44e71e1dda5315f3c2b258b4411461c74e1f0ea3220>
+      <tag_87382956dd4a50d0487e80a2399eab9d63c2fbb6379f064ddfdc6e4924fa77c9>giannoscargr/333650546</tag_87382956dd4a50d0487e80a2399eab9d63c2fbb6379f064ddfdc6e4924fa77c9>
+      <tag_6b36a61a94b72ce5ef4bc743fd31263b89791e54f2c598d0ade024ef43c26b6c>2104311802
+ ,
+6947676754
+ ,
+6947676754</tag_6b36a61a94b72ce5ef4bc743fd31263b89791e54f2c598d0ade024ef43c26b6c>
+    </fields1>
+    <carSubTitle>LPG. BOOK SRVICE</carSubTitle>
+    <fields2>
+      <txt>ABS, Bluetooth, CD player, ESP, Immobilizer, Isofix -παιδικά καθίσματα, USB, Ανταλλαγή με car δεκτή, Βιβλίο service, Ηλεκτρικά παράθυρα, Ηλεκτρικοί καθρέφτες, Κεντρικό κλείδωμα, Κλιματισμός(A/C), Πιστωτική κάρτα δεκτή, Προβολείς ομίχλης, Τηλέφωνο, Τιμόνι πολλών χρήσεων, Υδραυλικό τιμόνι, Υπολογιστής ταξιδιού</txt>
+    </fields2>
+    <desc>ΠΛΗΡΩΜΗ ΚΑΙ ΜΕ ΠΙΣΤΩΤΙΚΗ ΚΑΡΤΑ ΕΩΣ 12 ΜΗΝΕΣ ΚΑΙ ΤΡΑΠΕΖΙΚΟ ΔΑΝΕΙΟ ΕΩΣ 60 ΜΗΝΕΣ ΣΕ 20 ΛΕΠΤΑ</desc>
+    <id>1</id>
+    <images>https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-52a95bf10ab72013db162184f629dbc4f2cc293490c033e3edba130092beec95_f8fb663f9c83a770.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-330d768cadc6484a5f78623d4889ad78295c69596a90955cb638231a534daa2f_cfd9e13ebf2b3c12.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-709f923ef937b14224331eaf0d00e6dc427b8e5fe905c24c2bec8a96d5d5145e_38f32c2d76bd9d3f.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-711a0435b34a92fc7e75fb88d7c8503c7201437af399a53f94787f225c460dff_f1ecf3f61daabd6c.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-960de720668a23c307096ff41f477ba8e0a64b6227dfb06cc9be3f510bd4bd15_fda5e16269849589.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-227980f3ff41826a187b0c59eb38a6f5ad0f084981220fa4b18b0c8cf89a69c1_64ac5f5ec824f70e.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-7071541d12bc39b4bfa372b1f0ee22d9383b7c76f0b549859686fa588a046f88_7f945eac8ca5295b.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-a5e7eb1e63cf11d82a2acab142b781681589c9ddac863369d5ba1c89412b6b86_9d07ef47b6536649.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-a218c3f5081e1f610e8217cfcf94d8324771787781cd86981c95b51c0e135256_c651df876f94cc69.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-b6d7c3b32d67249f27ff651554270ac84d2c3b67bced1a0c5e153686c7498ff3_c60e391fa46ace06.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-b0046a7289c5eb49685572dc03011ef236efd94c4cc96610fc12e3c0708120e0_109c0f6be450979a.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-c7743b912ecc46574b374d053bc30b09a68ef1861445931f6b17b77ae80e1c81_531a37e5ecaf14e5.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-da3dd9a561f663e865262c922a4aafafeb78d6014c601f544005b776fdab4791_7cdf4cbd39e7c44a.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-e6f7761c25f923f8c4e141549cc005442c4e623579d3e41b0081b8ecb53ff7f3_9b31a3545909a497.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-eccc2e13fd9c15cf89f25fe5d0a36bdce12b584ced76a76fd782df04778e9791_686b1eb1891c3435.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-f8baf18a6feb0033db97de3424ac4abd726c011a448dc4574f9e90b5bc6e123d_ad223ad827649bb8.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-0a2064ad0582e591547378fb30f43e41bbb2ab9086e7788877fb1589e0034f1c_9087efa78f3632e2.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-0ad0053e31cba351140ccca28cae47907b101252893584573d13b32d3860e1f8_92079890ee7126a1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-2e118749658148d455ce114c06c01386b4d159a4dba21cb2896b570f7ff3a773_3d77a1bbc9c37d48.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-4aa50d17bd33c4365b509dacce94cb23c5939365969063536c8eaeca8d80e470_3171aed6c3dd3d02.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-5ae335c261f85207e1372322e38d33ac18676051f8e4c228e2fe920401e238be_a295813e6d7da90f.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-6ce11594c7bff588fc8641808a158761b64c83909b84f099bd674b25d0db9591_1a3d611a0889194f.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-7c7e7a56c4ffc229b034726584f9247e8b02c20990c1bd89020b4501318d1891_599be261c81fb81d.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-7f408e2dc8d940e1a9bb413c503a45d5de55d3a9f9c92c3d1714d914cbfd285f_52308ae5bd63e4ec.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-8a9d196fb7438ef433341559d814043e32d49a5fe573a9275974435de28a8269_108d959e25be16d1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-9a0d0cc1f9a900f68e1b87c95defcdf786fb4515bfb9686db255deec90d69bdc_830d0440d381d1c2.jpg</images>
+  </car>
+  <car>
+    <client>ilias</client>
+    <dealership>giannos</dealership>
+    <carGrId>333743858</carGrId>
+    <carTitle>Hyundai i 10 2018</carTitle>
+    <fields1>
+      <tag_b2f41f5cfa908aca4295b842806cebc64fe41465e1661562a79e21c3120f272b>Hyundai</tag_b2f41f5cfa908aca4295b842806cebc64fe41465e1661562a79e21c3120f272b>
+      <tag_8e38368f5ffd93e1a4393761d0f4e31f39c0ae5ec0090ce1e234d717acb16e61>i 10</tag_8e38368f5ffd93e1a4393761d0f4e31f39c0ae5ec0090ce1e234d717acb16e61>
+      <tag_72fb50a8f87ed7c935e05814300e76c41212ff3e9c20dbf643ca3afb94f2509c>Hyundai i 10 LPG BOOK SRVICE '18</tag_72fb50a8f87ed7c935e05814300e76c41212ff3e9c20dbf643ca3afb94f2509c>
+      <tag_d0140f626c5c449f2d2ce22531bf260899521948ef2a7621d045adddbcc75d10>333743858</tag_d0140f626c5c449f2d2ce22531bf260899521948ef2a7621d045adddbcc75d10>
+      <tag_8e3801eb7ea81a1175a45192058758eca8846e27b43b0a7bb52329f31a54a333>9500</tag_8e3801eb7ea81a1175a45192058758eca8846e27b43b0a7bb52329f31a54a333>
+      <tag_a8432c2acaa597d7ec2cf9635ae9e49565c212f3c3b29f03245a5c2ad70581a0>Μεταχειρισμένο</tag_a8432c2acaa597d7ec2cf9635ae9e49565c212f3c3b29f03245a5c2ad70581a0>
+      <tag_b1bd690085790998707b4ef9bd90d4c5ba2d43fe5a1a5d69a36ccfee72f6f5a6>Κόμπακτ / Hatchback</tag_b1bd690085790998707b4ef9bd90d4c5ba2d43fe5a1a5d69a36ccfee72f6f5a6>
+      <tag_6afd21b9431a5c3b001ebaadd4a56063d9d5c39e62767051e69258ae27d8578c>2018</tag_6afd21b9431a5c3b001ebaadd4a56063d9d5c39e62767051e69258ae27d8578c>
+      <tag_9f0a8d3a540750f839f5739aa5d0fd9999a9de90704e177408f99a6a4afc093d>143000</tag_9f0a8d3a540750f839f5739aa5d0fd9999a9de90704e177408f99a6a4afc093d>
+      <tag_7bf15b763b370b92378b9eb944a3c13e909bbd9abfa7b4a29cec8ec5e7aac6cb>Αέριο(lpg) - βενζίνη</tag_7bf15b763b370b92378b9eb944a3c13e909bbd9abfa7b4a29cec8ec5e7aac6cb>
+      <tag_63e5d7e03c563b0241715fee2f8d9e934d2d631df304da33ee7dce4c6c59f5ac>1000</tag_63e5d7e03c563b0241715fee2f8d9e934d2d631df304da33ee7dce4c6c59f5ac>
+      <tag_8d81844d8ad3198de7bd96be99f6b9470fe93f0a6a9d35ea47d82e260a588183>70</tag_8d81844d8ad3198de7bd96be99f6b9470fe93f0a6a9d35ea47d82e260a588183>
+      <tag_b1ec6bf6ab0b16094001c1f36d4ff5e7a0cda98088dd2bc15ce36a6631e8f228>Χειροκίνητο</tag_b1ec6bf6ab0b16094001c1f36d4ff5e7a0cda98088dd2bc15ce36a6631e8f228>
+      <tag_da6bac732401b06c9b0f92c6b2a54f59dc12736fab7c8975c3491ef96896e985>Ασπρο (Μεταλλικό)</tag_da6bac732401b06c9b0f92c6b2a54f59dc12736fab7c8975c3491ef96896e985>
+      <tag_d6fa0379e37c92a6a27759efb9106d56ba9acc5214e7e0b5b554b0b169d1de3b>Άγνωστο</tag_d6fa0379e37c92a6a27759efb9106d56ba9acc5214e7e0b5b554b0b169d1de3b>
+      <tag_28a5a7c0d5ba7fda7e7f200291b39f4209e66a0d3c1f457cbbe40b777231753e>4</tag_28a5a7c0d5ba7fda7e7f200291b39f4209e66a0d3c1f457cbbe40b777231753e>
+      <tag_135349428cab6cb0d16a350554a4b47d56e4185c48a7f86b43b86f4ffc3ae165>5</tag_135349428cab6cb0d16a350554a4b47d56e4185c48a7f86b43b86f4ffc3ae165>
+      <tag_7304db5692e2be749999c81e6b3dc5b4f32a98be48ccbfce0d679bb64aed8c22>5</tag_7304db5692e2be749999c81e6b3dc5b4f32a98be48ccbfce0d679bb64aed8c22>
+      <tag_260af0005d9a90e6d9e41a3002bbad477498cfdb411b1e8de5efc6e11628f63c>4 λεπτά πριν</tag_260af0005d9a90e6d9e41a3002bbad477498cfdb411b1e8de5efc6e11628f63c>
+      <tag_6b2b01699623b8a4a5d6d44e71e1dda5315f3c2b258b4411461c74e1f0ea3220>0</tag_6b2b01699623b8a4a5d6d44e71e1dda5315f3c2b258b4411461c74e1f0ea3220>
+      <tag_87382956dd4a50d0487e80a2399eab9d63c2fbb6379f064ddfdc6e4924fa77c9>giannoscargr/333743858</tag_87382956dd4a50d0487e80a2399eab9d63c2fbb6379f064ddfdc6e4924fa77c9>
+      <tag_6b36a61a94b72ce5ef4bc743fd31263b89791e54f2c598d0ade024ef43c26b6c>2104311802
+ ,
+6947676754
+ ,
+6947676754</tag_6b36a61a94b72ce5ef4bc743fd31263b89791e54f2c598d0ade024ef43c26b6c>
+    </fields1>
+    <carSubTitle>LPG. BOOK SRVICE</carSubTitle>
+    <fields2>
+      <txt>ABS, Bluetooth, CD player, ESP, Immobilizer, Isofix -παιδικά καθίσματα, USB, Ανταλλαγή με car δεκτή, Βιβλίο service, Ηλεκτρικά παράθυρα, Ηλεκτρικοί καθρέφτες, Κεντρικό κλείδωμα, Κλιματισμός(A/C), Πιστωτική κάρτα δεκτή, Προβολείς ομίχλης, Τηλέφωνο, Τιμόνι πολλών χρήσεων, Υδραυλικό τιμόνι, Υπολογιστής ταξιδιού</txt>
+    </fields2>
+    <desc>ΠΛΗΡΩΜΗ ΚΑΙ ΜΕ ΠΙΣΤΩΤΙΚΗ ΚΑΡΤΑ ΕΩΣ 12 ΜΗΝΕΣ ΚΑΙ ΤΡΑΠΕΖΙΚΟ ΔΑΝΕΙΟ ΕΩΣ 60 ΜΗΝΕΣ ΣΕ 20 ΛΕΠΤΑ</desc>
+    <id>2</id>
+    <images>https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-4aa50d17bd33c4365b509dacce94cb23c5939365969063536c8eaeca8d80e470_3171aed6c3dd3d02-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-5ae335c261f85207e1372322e38d33ac18676051f8e4c228e2fe920401e238be_a295813e6d7da90f-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-6ce11594c7bff588fc8641808a158761b64c83909b84f099bd674b25d0db9591_1a3d611a0889194f-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-7c7e7a56c4ffc229b034726584f9247e8b02c20990c1bd89020b4501318d1891_599be261c81fb81d-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-52a95bf10ab72013db162184f629dbc4f2cc293490c033e3edba130092beec95_f8fb663f9c83a770-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-709f923ef937b14224331eaf0d00e6dc427b8e5fe905c24c2bec8a96d5d5145e_38f32c2d76bd9d3f-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-711a0435b34a92fc7e75fb88d7c8503c7201437af399a53f94787f225c460dff_f1ecf3f61daabd6c-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-960de720668a23c307096ff41f477ba8e0a64b6227dfb06cc9be3f510bd4bd15_fda5e16269849589-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-7071541d12bc39b4bfa372b1f0ee22d9383b7c76f0b549859686fa588a046f88_7f945eac8ca5295b-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-a5e7eb1e63cf11d82a2acab142b781681589c9ddac863369d5ba1c89412b6b86_9d07ef47b6536649-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-a218c3f5081e1f610e8217cfcf94d8324771787781cd86981c95b51c0e135256_c651df876f94cc69-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-b6d7c3b32d67249f27ff651554270ac84d2c3b67bced1a0c5e153686c7498ff3_c60e391fa46ace06-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-b0046a7289c5eb49685572dc03011ef236efd94c4cc96610fc12e3c0708120e0_109c0f6be450979a-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-c7743b912ecc46574b374d053bc30b09a68ef1861445931f6b17b77ae80e1c81_531a37e5ecaf14e5-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-da3dd9a561f663e865262c922a4aafafeb78d6014c601f544005b776fdab4791_7cdf4cbd39e7c44a-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-e6f7761c25f923f8c4e141549cc005442c4e623579d3e41b0081b8ecb53ff7f3_9b31a3545909a497-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-0a2064ad0582e591547378fb30f43e41bbb2ab9086e7788877fb1589e0034f1c_9087efa78f3632e2-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-0ad0053e31cba351140ccca28cae47907b101252893584573d13b32d3860e1f8_92079890ee7126a1-1.jpg, https://yanm9.sg-host.com/wp-content/uploads/2023/05/0-02-05-5ae335c261f85207e1372322e38d33ac18676051f8e4c228e2fe920401e238be_a295813e6d7da90f-1.jpg</images>
+  </car>
+</cars>
