@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<cars>
+  <car>
+    <client>ilias</client>
+    <dealership>Tsakoutis</dealership>
+    <carGrId>333717035</carGrId>
+    <carTitle>Volkswagen Polo 2019</carTitle>
+    <fields1>
+      <tag_b2f41f5cfa908aca4295b842806cebc64fe41465e1661562a79e21c3120f272b>Volkswagen</tag_b2f41f5cfa908aca4295b842806cebc64fe41465e1661562a79e21c3120f272b>
+      <tag_8e38368f5ffd93e1a4393761d0f4e31f39c0ae5ec0090ce1e234d717acb16e61>Polo</tag_8e38368f5ffd93e1a4393761d0f4e31f39c0ae5ec0090ce1e234d717acb16e61>
+      <tag_72fb50a8f87ed7c935e05814300e76c41212ff3e9c20dbf643ca3afb94f2509c>Volkswagen Polo 16 TDI Style,Full Extra,Navi '19</tag_72fb50a8f87ed7c935e05814300e76c41212ff3e9c20dbf643ca3afb94f2509c>
+      <tag_d0140f626c5c449f2d2ce22531bf260899521948ef2a7621d045adddbcc75d10>333717035</tag_d0140f626c5c449f2d2ce22531bf260899521948ef2a7621d045adddbcc75d10>
+      <tag_8e3801eb7ea81a1175a45192058758eca8846e27b43b0a7bb52329f31a54a333>15800</tag_8e3801eb7ea81a1175a45192058758eca8846e27b43b0a7bb52329f31a54a333>
+      <tag_a8432c2acaa597d7ec2cf9635ae9e49565c212f3c3b29f03245a5c2ad70581a0>Μεταχειρισμένο</tag_a8432c2acaa597d7ec2cf9635ae9e49565c212f3c3b29f03245a5c2ad70581a0>
+      <tag_b1bd690085790998707b4ef9bd90d4c5ba2d43fe5a1a5d69a36ccfee72f6f5a6>Κουπέ-Σπόρ</tag_b1bd690085790998707b4ef9bd90d4c5ba2d43fe5a1a5d69a36ccfee72f6f5a6>
+      <tag_6afd21b9431a5c3b001ebaadd4a56063d9d5c39e62767051e69258ae27d8578c>2019</tag_6afd21b9431a5c3b001ebaadd4a56063d9d5c39e62767051e69258ae27d8578c>
+      <tag_9f0a8d3a540750f839f5739aa5d0fd9999a9de90704e177408f99a6a4afc093d>135000</tag_9f0a8d3a540750f839f5739aa5d0fd9999a9de90704e177408f99a6a4afc093d>
+      <tag_7bf15b763b370b92378b9eb944a3c13e909bbd9abfa7b4a29cec8ec5e7aac6cb>Πετρέλαιο</tag_7bf15b763b370b92378b9eb944a3c13e909bbd9abfa7b4a29cec8ec5e7aac6cb>
+      <tag_63e5d7e03c563b0241715fee2f8d9e934d2d631df304da33ee7dce4c6c59f5ac>1600</tag_63e5d7e03c563b0241715fee2f8d9e934d2d631df304da33ee7dce4c6c59f5ac>
+      <tag_8d81844d8ad3198de7bd96be99f6b9470fe93f0a6a9d35ea47d82e260a588183>95</tag_8d81844d8ad3198de7bd96be99f6b9470fe93f0a6a9d35ea47d82e260a588183>
+      <tag_b1ec6bf6ab0b16094001c1f36d4ff5e7a0cda98088dd2bc15ce36a6631e8f228>Χειροκίνητο</tag_b1ec6bf6ab0b16094001c1f36d4ff5e7a0cda98088dd2bc15ce36a6631e8f228>
+      <tag_da6bac732401b06c9b0f92c6b2a54f59dc12736fab7c8975c3491ef96896e985>Μπλέ (Μεταλλικό)</tag_da6bac732401b06c9b0f92c6b2a54f59dc12736fab7c8975c3491ef96896e985>
+      <tag_12b3fc206b265aa8d819a9b064fc99e8c0ccfee4dd5159df66197d2c43b0ea13>Γκρι</tag_12b3fc206b265aa8d819a9b064fc99e8c0ccfee4dd5159df66197d2c43b0ea13>
+      <tag_41a0431e0ad516c55ca016d5e28b9d516e7115f571ce557a24ebc2439dfb934c>Ύφασμα</tag_41a0431e0ad516c55ca016d5e28b9d516e7115f571ce557a24ebc2439dfb934c>
+      <tag_1cc4f1255ecd7e8ae4850110f26bd8304faa5153b89b0881e7063d6cb2132286>5/2019</tag_1cc4f1255ecd7e8ae4850110f26bd8304faa5153b89b0881e7063d6cb2132286>
+      <tag_bf5fd0e251b5b537941ecd1b5a494e8de138638279ebb35b1879a2548ffcebba>Euro 6</tag_bf5fd0e251b5b537941ecd1b5a494e8de138638279ebb35b1879a2548ffcebba>
+      <tag_1c8f8db1c0e271e6ef6470164c13f85e3055a8e7cf580e751c58f3623c9d0f04>15</tag_1c8f8db1c0e271e6ef6470164c13f85e3055a8e7cf580e751c58f3623c9d0f04>
+      <tag_d6fa0379e37c92a6a27759efb9106d56ba9acc5214e7e0b5b554b0b169d1de3b>Άγνωστο</tag_d6fa0379e37c92a6a27759efb9106d56ba9acc5214e7e0b5b554b0b169d1de3b>
+      <tag_e8a97b34ed6ddd4e1042fb8ec057b9955de8ac31414329d1f8cb6adc11efda29>1</tag_e8a97b34ed6ddd4e1042fb8ec057b9955de8ac31414329d1f8cb6adc11efda29>
+      <tag_28a5a7c0d5ba7fda7e7f200291b39f4209e66a0d3c1f457cbbe40b777231753e>6</tag_28a5a7c0d5ba7fda7e7f200291b39f4209e66a0d3c1f457cbbe40b777231753e>
+      <tag_135349428cab6cb0d16a350554a4b47d56e4185c48a7f86b43b86f4ffc3ae165>5</tag_135349428cab6cb0d16a350554a4b47d56e4185c48a7f86b43b86f4ffc3ae165>
+      <tag_7304db5692e2be749999c81e6b3dc5b4f32a98be48ccbfce0d679bb64aed8c22>5</tag_7304db5692e2be749999c81e6b3dc5b4f32a98be48ccbfce0d679bb64aed8c22>
+      <tag_260af0005d9a90e6d9e41a3002bbad477498cfdb411b1e8de5efc6e11628f63c>15 ώρες πριν</tag_260af0005d9a90e6d9e41a3002bbad477498cfdb411b1e8de5efc6e11628f63c>
+      <tag_6b2b01699623b8a4a5d6d44e71e1dda5315f3c2b258b4411461c74e1f0ea3220>191</tag_6b2b01699623b8a4a5d6d44e71e1dda5315f3c2b258b4411461c74e1f0ea3220>
+      <tag_87382956dd4a50d0487e80a2399eab9d63c2fbb6379f064ddfdc6e4924fa77c9>giorgos-cars1cargr/333717035</tag_87382956dd4a50d0487e80a2399eab9d63c2fbb6379f064ddfdc6e4924fa77c9>
+      <tag_6b36a61a94b72ce5ef4bc743fd31263b89791e54f2c598d0ade024ef43c26b6c>6936277350
+ ,
+2104316863
+ ,
+6936277350</tag_6b36a61a94b72ce5ef4bc743fd31263b89791e54f2c598d0ade024ef43c26b6c>
+    </fields1>
+    <carSubTitle>1.6 TDI Style,Full Extra,Navi</carSubTitle>
+    <fields2>
+      <txt>ABS, Android auto, Bluetooth, Cruise control, Eco start/stop, ESP, Hill assist, Immobilizer, Isofix -παιδικά καθίσματα, Navigation - GPS, Parktronic, Turbo, USB, Αισθητήρας βροχής, Αντ/γή με σκάφος δεκτή, Ανταλλαγή με car δεκτή, Ανταλλαγή με μοτο, Απόσυρσης-δικαίωμα, Ατρακάριστο, Αυτόματο παρκάρισμα, Βιβλίο service, Γραμμάτια δεκτά, Εγγύηση, Εισαγωγής, Επέκταση εγγύησης, Επιταγές δεκτές, Ζάντες αλουμινίου, Ηλεκτρικά παράθυρα, Ηλεκτρικοί καθρέφτες, Κεντρικό κλείδωμα, Κλιματισμός αυτόματος, Κλιματισμός(A/C), Μη καπνιστή, Οθόνη TFT, Πιστωτική κάρτα δεκτή, Προβολείς ομίχλης, Ράδιοκασετ/νο, Τιμόνι πολλών χρήσεων, Υδραυλικό τιμόνι, Υπολογιστής ταξιδιού, Φώτα LED, Φώτα xenon</txt>
+    </fields2>
+    <desc>ΤΟ ΑΥΤΟΚΊΝΗΤΟ ΕΙΝΑΙ ΑΡΙΣΤΟ,ΔΕΚΤΟΣ ΚΑΘΕ ΕΛΕΓΧΟΣ-ΔΕΚΤΕΣ ΑΝΤΑΛΛΑΓΕΣ-ΤΙΜΗ ΑΝΤΑΛΛΑΓΗΣ 16.500 ΕΥΡΩ..ΟΤΙ ΠΟΙΟ ΦΟΥΛ ΥΠΑΡΧΕΙ.(ΕΚΔΟΣΗ ΑΥΤΟΚΙΝΉΤΟΥ,1.6 TDI Style.)(ΕΞΟΠΛΙΣΜΟΣ ΑΥΤΟΚΙΝΗΤΟΥ,Gps, ΑΙΣΘΗΤΗΡΕΣ ΠΑΡΚΑΡΙΣΜΑΤΟΣ ΕΜΠΡΟΣ ΚΑΙ ΠΊΣΩ ΜΕ ΚΟΥΜΠΙ ΑΠΕΝΕΡΓΟΠΟΙΗΣΗΣ,New ΚΟΝΤΕΡ Face Lift, ΖΑΝΤΕΣ ΑΛΟΥΜΙΝΙΟΥ,ΗΛΕΚΤΡΙΚΆ ΠΑΡΑΘΥΡΑ ΕΜΠΡΟΣ ΚΑΙ ΠΙΣΩ,START STOP,ΑΥΤΟΜΑΤΟ ΠΑΡΚΑΡΙΣΜΑ,ΔΙΖΩΝΙΚΟΣ ΚΛΙΜΑΤΙΣΜΟΣ,ΠΡΟΒΟΛΑΚΙΑ ΟΜΙΧΛΗΣ,ΗΛΕΚΤΡΙΚΟΙ ΚΑΘΡΕΦΤΕΣ,3 ΕΠΙΛΟΓΕΣ ΠΡΟΓΡΑΜΜΆΤΩΝ,ΚΑΙ ΠΟΛΛΆ ΑΚΌΜΑ ΠΟΥ ΞΕΧΝΑΩ..ΟΛΑ ΜΑΣ ΤΑ ΑΥΤΟΚΙΝΗΤΑ ΠΑΡΑΔΙΔΟΝΤΑΙ ΜΕ ΒΙΟΛΟΓΙΚΌ ΚΑΘΑΡΙΣΜΟ..
+
+3 ΔΩΡΑ ΑΠΟ ΕΜΑΣ✔
+
+1 ΔΩΡΟ ΦΙΜΕ ΤΖΑΜΙΑ✔
+
+2 ΔΩΡΟ ΞΕΝΟΝ ΦΩΤΑ✔
+
+3 ΔΩΡΟ ΣΗΜΑ 2023✔
+
+ΟΛΑ ΤΑ ΠΑΡΑΠΑΝΩ ΔΏΡΑ ΠΟΥ ΑΝΑΓΡΑΦΟΝΤΑΙ ΜΠΟΡΕΙ ΝΑ ΕΧΟΥΝ ΤΟΠΟΘΕΤΗΕΘΕΙ ΗΔΗ ΕΠΑΝΩ ΣΤΟ ΑΥΤΟΚΙΝΗΤΟ✔
+
+ΤΡΟΠΟΙ ΠΛΗΡΩΜΗΣ👌
+
+ΠΙΣΤΩΤΙΚΗ ΚΑΡΤΑ👌
+
+ΧΡΗΜΑΤΟΔΟΤΗΣΗ ΜΕΣΩ ΤΡΑΠΕΖΑΣ👌
+
+ΓΡΑΜΜΑΤΙΑ ΜΕΤΑΞΥ ΜΑΣ ΜΕ ΤΟ 70%ΠΡΟΚΑΤΑΒΟΛΗ👌
+
+ΤΟ ΚΑΤΑΣΤΗΜΑ ΜΑΣ ΔΙΑΘΕΤΕΙ ΚΑΙ ΑΝΥΨΩΤΙΚΟ ΜΗΧΑΝΗΜΑ👌
+
+ΤΟ ΑΥΤΟΚΙΝΗΤΟ ΘΑ ΠΑΡΑΔΟΘΕΙ ΑΠΟ ΕΜΑΣ ΜΕ ΦΟΥΛ ΣΕΡΒΙΣ👌</desc>
+    <id>1</id>
+    <images>https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-b1879dd14f0808213047db7b9f474a977cad4589bfc26642feec34da00749af9_8eae7d13d4601fee.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-a7e289a58abd24b6394bff264ff64f215b6c23baf9b8d9264653b9ae7e3ecc5f_19a3014ecb6fe043.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-7673b7ace02fa04791e176b04a53d76b56f24b10c0bb5cd9ed425b32d893186a_83c59e337f90336f.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-909aa1e72e9a7a48aea6898e8ec997f1f17e608e8e4f17c64e0704930c24016e_284caa5d1d04565a.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-0200a49daa772c92191be4339daa98fb2d68cbe9ac5f6ee58e0f4ee3f10c94b4_e40a37eab8cccce2.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-135efa5a43027182c527f672eafe5ff5768e5ea9e1f741908528b4809d021836_325c30cf53d901fd.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-91fe0e665e3abdc329c4f3e7afaa8eaf5e30fbd866d61775ab39f46837d83251_a3a5affb9e6f31f3.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-14cf656e0b84ca353ec96b69ea8c4e52a82cc4beb1049e98af5fdfd96fe8ab32_735b2cb2894ba07a.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-6d228ba47b8ba61146fc651605d3237fd1b6c75b28ad839bf9131ca6921075a1_23501d79a1b8cf76.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-3ad041413abd318810362aa5418bf1d8e2e4fced11129bec9dce9bae32929041_1004bbde98caaa4a.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-01b716a1ef3a699d2fb98268cdfeb8363bef6ce97dac41637bd6661d4ea03911_8bdff60da6e92e84.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-fcfb18dc360bdaae723958a2f30111b6c63f72a3b0f977962afc0556791d776f_b38fca19abbcbb70.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-f28255bbaa6700dbe38081b92b9dd02b46390d0aa872a44840373cd3dbe7d045_8f5f386815095cd1.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-f1b23635800a95111b54d703eb81db9e18a5fc78066c4ac30fc194f29f5b99a4_3fc078074d1bc31c.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-d2780e2d1ecafa3102fbba6a63bb389e0435f73ea011bbad1b4b69586b3e93a7_c374dcac4c928e9f.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-d60e619819c7975cfb64107460db743da722586db81f312eb6983943d5a030f0_e4b61e42cec755a.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-c6133d92ba79450c5223d1acf6456d0aed023b9bd0d683972ec72b47f37855f7_34e8afbd668e0ec1.jpg, https://nextusedcar.gr/wp-content/uploads/2023/05/0-02-05-c299b1801a9e33641bf156a6161f584fd9717294735e8c71da305a5f345ef3e6_d1bf685d262ca3ae.jpg</images>
+  </car>
+</cars>

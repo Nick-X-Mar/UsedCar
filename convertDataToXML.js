@@ -2,6 +2,7 @@ const puppeteer = require('puppeteer');
 const crypto = require('crypto');
 const xmlbuilder = require('xmlbuilder');
 const fs = require('fs');
+const moment = require('moment');
 
 function getIdFromUrl(url) {
     const path = new URL(url).pathname;
@@ -20,6 +21,8 @@ function hashString(input) {
 
 async function convertDataToXML(filePath) {
     let browser;
+    let current_date = moment().format('DD_MM_YY');
+    let filename = `outputs/output_${current_date}.xml`;
     try {
         const xmlDoc = xmlbuilder.create('cars');
         const data = JSON.parse(fs.readFileSync(filePath));
@@ -231,7 +234,7 @@ async function convertDataToXML(filePath) {
         }
 
         const xmlString = xmlDoc.end({ pretty: true });
-        fs.writeFileSync('output.xml', xmlString);
+        fs.writeFileSync(filename, xmlString);
         console.log('Conversion completed successfully.');
     } catch (error) {
         console.error('An error occurred during conversion:', error);
