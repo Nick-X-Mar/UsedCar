@@ -1,7 +1,6 @@
 {
   "name": "carscraper",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +12,16 @@
     "cheerio": "^1.0.0-rc.12",
     "cheerio-without-node-native": "^1.0.0-rc.2",
     "moment": "^2.29.4",
-    "puppeteer": "^20.2.0",
+    "puppeteer": "^20.4.0",
     "xmlbuilder": "^15.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-X-Mar/UsedCar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nick-X-Mar/UsedCar/issues"
+  },
+  "homepage": "https://github.com/Nick-X-Mar/UsedCar#readme",
+  "description": ""
 }
