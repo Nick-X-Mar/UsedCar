@@ -102,7 +102,8 @@ async function convertDataToXML(filePath) {
             let descriptionText = "";
             // Get Description
             // const spanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[1]/div[9]/div[2]/div/div[1]/div/span';
-            spanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div[1]/div[1]/div[7]/div[2]/div/div[1]/div/span'
+            // spanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div[1]/div[1]/div[7]/div[2]/div/div[1]/div/span'
+            spanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div[1]/div[1]/div[8]/div[2]/div/div[1]/div/span'
             spanElement = await page.$x(spanXPath);
             try {
                 descriptionText = await page.evaluate(element => element.textContent, spanElement[0]);
