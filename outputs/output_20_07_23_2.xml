@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<cars>
+  <car>
+    <client>ilias</client>
+    <dealership>giannos</dealership>
+    <carGrId>335553691-hyundai-i-10</carGrId>
+    <carTitle>Hyundai i 10 2016</carTitle>
+    <fields1>
+      <tag_b2f41f5cfa908aca4295b842806cebc64fe41465e1661562a79e21c3120f272b>Hyundai</tag_b2f41f5cfa908aca4295b842806cebc64fe41465e1661562a79e21c3120f272b>
+      <tag_8e38368f5ffd93e1a4393761d0f4e31f39c0ae5ec0090ce1e234d717acb16e61>i 10</tag_8e38368f5ffd93e1a4393761d0f4e31f39c0ae5ec0090ce1e234d717acb16e61>
+      <tag_72fb50a8f87ed7c935e05814300e76c41212ff3e9c20dbf643ca3afb94f2509c>Hyundai i 10 LPG ΦΙΜΕ,ΟΘΟΝΗΖΑΝΤΕΣΑΝΑΛΥΣΗΦΠΑ '16</tag_72fb50a8f87ed7c935e05814300e76c41212ff3e9c20dbf643ca3afb94f2509c>
+      <tag_d0140f626c5c449f2d2ce22531bf260899521948ef2a7621d045adddbcc75d10>335553691</tag_d0140f626c5c449f2d2ce22531bf260899521948ef2a7621d045adddbcc75d10>
+      <tag_8e3801eb7ea81a1175a45192058758eca8846e27b43b0a7bb52329f31a54a333>9800</tag_8e3801eb7ea81a1175a45192058758eca8846e27b43b0a7bb52329f31a54a333>
+      <tag_a8432c2acaa597d7ec2cf9635ae9e49565c212f3c3b29f03245a5c2ad70581a0>Μεταχειρισμένο</tag_a8432c2acaa597d7ec2cf9635ae9e49565c212f3c3b29f03245a5c2ad70581a0>
+      <tag_b1bd690085790998707b4ef9bd90d4c5ba2d43fe5a1a5d69a36ccfee72f6f5a6>Κόμπακτ / Hatchback</tag_b1bd690085790998707b4ef9bd90d4c5ba2d43fe5a1a5d69a36ccfee72f6f5a6>
+      <tag_6afd21b9431a5c3b001ebaadd4a56063d9d5c39e62767051e69258ae27d8578c>2016</tag_6afd21b9431a5c3b001ebaadd4a56063d9d5c39e62767051e69258ae27d8578c>
+      <tag_9f0a8d3a540750f839f5739aa5d0fd9999a9de90704e177408f99a6a4afc093d>125000</tag_9f0a8d3a540750f839f5739aa5d0fd9999a9de90704e177408f99a6a4afc093d>
+      <tag_7bf15b763b370b92378b9eb944a3c13e909bbd9abfa7b4a29cec8ec5e7aac6cb>Αέριο(lpg) - βενζίνη</tag_7bf15b763b370b92378b9eb944a3c13e909bbd9abfa7b4a29cec8ec5e7aac6cb>
+      <tag_63e5d7e03c563b0241715fee2f8d9e934d2d631df304da33ee7dce4c6c59f5ac>1000</tag_63e5d7e03c563b0241715fee2f8d9e934d2d631df304da33ee7dce4c6c59f5ac>
+      <tag_8d81844d8ad3198de7bd96be99f6b9470fe93f0a6a9d35ea47d82e260a588183>70</tag_8d81844d8ad3198de7bd96be99f6b9470fe93f0a6a9d35ea47d82e260a588183>
+      <tag_b1ec6bf6ab0b16094001c1f36d4ff5e7a0cda98088dd2bc15ce36a6631e8f228>Χειροκίνητο</tag_b1ec6bf6ab0b16094001c1f36d4ff5e7a0cda98088dd2bc15ce36a6631e8f228>
+      <tag_da6bac732401b06c9b0f92c6b2a54f59dc12736fab7c8975c3491ef96896e985>Ασπρο (Μεταλλικό)</tag_da6bac732401b06c9b0f92c6b2a54f59dc12736fab7c8975c3491ef96896e985>
+      <tag_d6fa0379e37c92a6a27759efb9106d56ba9acc5214e7e0b5b554b0b169d1de3b>Άγνωστο</tag_d6fa0379e37c92a6a27759efb9106d56ba9acc5214e7e0b5b554b0b169d1de3b>
+      <tag_28a5a7c0d5ba7fda7e7f200291b39f4209e66a0d3c1f457cbbe40b777231753e>4</tag_28a5a7c0d5ba7fda7e7f200291b39f4209e66a0d3c1f457cbbe40b777231753e>
+      <tag_135349428cab6cb0d16a350554a4b47d56e4185c48a7f86b43b86f4ffc3ae165>5</tag_135349428cab6cb0d16a350554a4b47d56e4185c48a7f86b43b86f4ffc3ae165>
+      <tag_7304db5692e2be749999c81e6b3dc5b4f32a98be48ccbfce0d679bb64aed8c22>5</tag_7304db5692e2be749999c81e6b3dc5b4f32a98be48ccbfce0d679bb64aed8c22>
+      <tag_260af0005d9a90e6d9e41a3002bbad477498cfdb411b1e8de5efc6e11628f63c>2 ώρες πριν</tag_260af0005d9a90e6d9e41a3002bbad477498cfdb411b1e8de5efc6e11628f63c>
+      <tag_6b2b01699623b8a4a5d6d44e71e1dda5315f3c2b258b4411461c74e1f0ea3220>5</tag_6b2b01699623b8a4a5d6d44e71e1dda5315f3c2b258b4411461c74e1f0ea3220>
+      <tag_87382956dd4a50d0487e80a2399eab9d63c2fbb6379f064ddfdc6e4924fa77c9>wwwcargr/335553691</tag_87382956dd4a50d0487e80a2399eab9d63c2fbb6379f064ddfdc6e4924fa77c9>
+      <tag_6b36a61a94b72ce5ef4bc743fd31263b89791e54f2c598d0ade024ef43c26b6c>2104311802
+ ,
+6947676754
+ ,
+6947676754</tag_6b36a61a94b72ce5ef4bc743fd31263b89791e54f2c598d0ade024ef43c26b6c>
+    </fields1>
+    <carSubTitle>LPG ΦΙΜΕ,ΟΘΟΝΗΖΑΝΤΕΣΑΝΑΛΥΣΗΦΠΑ</carSubTitle>
+    <fields2>
+      <txt/>
+    </fields2>
+    <desc>ΠΛΗΡΩΜΗ ΚΑΙ ΜΕ ΠΙΣΤΩΤΙΚΗ ΚΑΡΤΑ ΕΩΣ 12 ΜΗΝΕΣ ΚΑΙ ΤΡΑΠΕΖΙΚΟ ΔΑΝΕΙΟ ΕΩΣ 60 ΜΗΝΕΣ ΣΕ 20 ΛΕΠΤΑ ΚΑΙΝΟΥΡΓΙΕΣ ΖΑΝΤΕΣ,ΦΙΜΕ,ΟΘΟΝΗ</desc>
+    <id>1</id>
+    <images>https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-5d56215c261c4c7e7eeb821505c1a3e3d7c53f0d8cc4fa798be2cf8f4cfd24c3_f389ba21d38cb977.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-5fbc0a5dd5fd5ebc89002c61b79da4b632411815f8d2594bff099995cc5a3948_c3cd9acc02779398.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-6a018206f9e4caa586f9316796d5a71d10b4e8c91bf5409196298672bad043f9_c164480c2e862432.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-8a747af6a07d181bc670d718858a80b06f3c4a9692f8083822886988c87151d6_538afd95df8004fe.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-57f705bd68f04416a78f095066248fab0081d1cb85abd3dd1d0105bd23d716fc_4ab89837e93edcda.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-622ea14f15de4dcb827575ef7ab69996cce4d55ec84eb2de438d69c98734eb52_156dec2c747c6049.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-7981e488956b580b4faf19fcc0c187d05235b705fb72536130ebd6e81dc4ec3e_74ad108f32c834c.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-99314029a59bfccd3f4bd45e18700ecc808c3d9f48325f8f1664e9724e95ee8e_f279570d2ad9f21c.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-ab06716582db3e23fb69badff87e9a6c388b627371a073f7ec9bf38474ab944a_cb4bcb306a8699ff.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-b41358d84affc7665be1f6a57f8559ecf2042a2898781ef37ce1a5236d7bc9a2_3806a173544759f0.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-ddc438513e80d6df876e405c8da4d429a1d83804e630b609371cebd73509d19a_8a9673c62091895f.jpg, https://nextusedcar.gr/wp-content/uploads/2023/07/0-02-05-0e993ad806deac299a8572d74b5e036a846f473e514cedbb9b5d29789fc210f0_fe8a9b56120e0af0.jpg</images>
+  </car>
+</cars>
