@@ -57,8 +57,10 @@ async function convertDataToXML(filePath) {
             // let spanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
             // let spanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
             // let spanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
-            let spanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
+            // let spanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
+            let spanXPath = '//*[@id="__layout"]/div/div[6]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
             let spanElement = await page.$x(spanXPath);
+            console.log(spanElement)
             if (spanElement.length === 0) {
                 // Element not found, continue to the next URL
                 console.log("No titleText was found")
@@ -95,7 +97,9 @@ async function convertDataToXML(filePath) {
 
             let subtitleText = "";
             // let subspanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[2]'
-            let subspanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[2]'
+            // let subspanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[2]'
+            let subspanXPath = '//*[@id="__layout"]/div/div[6]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[2]'
+            
             let subspanElement = await page.$x(subspanXPath);
             try {
                 subtitleText = await page.evaluate(element => element.textContent, subspanElement[0]);

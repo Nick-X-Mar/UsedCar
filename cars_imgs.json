@@ -1,58 +1,66 @@
-
 {
    "client": "ilias",
-   "dealership": "tsakoutis",
-   "urls":[
+   "dealership": "Quality",
+   "urls": [
       {
-         "car_url":"https://www.car.gr/classifieds/cars/view/338035814-nissan-nv-200",
-         "images":[
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-533fd617010c0b3ab1b35199f58a79cf7877f6584d53e228e520da0e08c70de0_d446cc68bc116112.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-68425baa55afe7e455cf525250c8083dd6d0c153b9a8a355066f74894a63249d_a2ceda426cdd3e88.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-49089565019387d9c9c620bec707719a6754ab0886d4c047516690e2b043a0bc_785d1e0d6f324b24.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-a3b1d8faebaeb80a8562e9d45ba5b737b523bd0062a66d344c60bfa2764217a8_5aa95421b32b4bc8.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-b8274535ffa310cdab24036d5046bcb64a100bb2828ccc4522a482ad2b859bb9_a9b950c95e84ff2d.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-c29a30b33f8cf3e411c4b1805ef49377a2d5155a818e6ea014d921fd35e23973_e739f7ef0597d7ff.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-3d99956f4aa0f5d4658092b822695c0f46c50b002593b8e6bef622fe2d4df665_aeabff8d5fb2c97b.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-4bdeb468b258fe19b264d63c0076a51f8b0cbb650ff27f78a9d0c8c379a2c491_edc556f9c53abec3.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-6a6e15110540ae2e29c76541b86146fad76c5d4689859ae4dc3e7a701c77c691_d994bb279435a108.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-6c0760867d7dce0d5ff2ca49af8664bc12edf04f5fb0748a2bba0a93bccb9a5c_70229567e90c15e0.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-8ecae038c2635bbe964899bbe053fe8c1c8f2fa5f1e095dd09e7a64fe11d6d14_96536fe30c8db6df.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-46d9b042e5f8f4d9b0b85592a5a599861eab95f71eec4a12a399f56a8f9b8e09_635923db5d633a4b.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-50aa0d83d5faeae50e44cfd2eb54a6ad48972059e0d42d4317de5b948877198e_5d214b6a768c9be6.jpg",
-  "https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-146d57fb7abb3477da4267e9eed5336dd86b30c982336303234f7aac74ca7410_c3f42eb01fbdff5d.jpg"
-     ]
+         "car_url": "https://www.car.gr/classifieds/cars/view/341092346-hyundai-i-10",
+         "images": [
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-dfb04a8bbb7c04da62f33ec272d422c5473d5c7746d5de1fc49d5501a6de5d6c_f8066d84e7837ae8.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-e56e14b7ea836e526b57756776235b1fd5ef63cf6430b99da3559b1e20c9a37f_da9f7d4a56e1e24e.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-e815f1968de52c88c876e5ffdfb6b8fb504cb686b21da7dec9503afb7b6aaf1c_3adeb02396fcb240.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-87ab48c8b739790938681755becbe48d7e3da364491bbf94e56c6dc682d3e1b4_c559a6b43752e43f.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-561d0e0a1f530ec97c80cb92cf982ed833fa4796344abe207f4d0a425e351f0f_98a2dc1ea282c2b8.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-c0c439863515e396084d091f7f9ebc8134531921b21c0ffde0413b081e7981a4_e1f6f807460992b3.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-d15df150d22bbb69c011ac1da76a4997c750c6faad71c651e23829febdc2e477_9d5be0f8cff667e6.jpg"
+         ]
       },
       {
-        "car_url":"https://www.car.gr/classifieds/cars/view/338121131-smart-fortwo",
-        "images":[
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-6d0bc41509511771b250396371400dac59ed56333eeaf535ec4b5cc955a7956c_a06ff68c4cdd6258.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-83e78aeb8322d8a4e79bdf9763b1f503b2e79824e046b280e67c13adbeee3f4b_e4c8ad8647b890f8.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-95f95f4689348f296b5c9e3bb2823c1b3ba485bd7234117c2fb82422fcbbe8a7_ab1aadd439450d75.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-242ce67dd6ec81472a40357c9a3e5757d266c655f09e902d8b9ac51688c76343_dcbe4c794f782c6f.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-897fc96fd3f93809de6b1b0eed0bfacd5b83dab65ad54e157c60def6cdd2bb7c_dd0ef588b9b94a67.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-899e05719f586122d47c048e33da15a3fb548a55c973c192667c9195917ff001_4bb8758d4279da80.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-998e85f1dee02f20e1f28d1294230271c48d28c43408628af8238f4a08903893_9b0aa7d9323d60b6.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-4300b8223cea1de4d9d1fbf5336754f47ffd9fbfc6d0de2c28a970369b7a4c83_92f2de3eb556f187.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-80496ffbfdc9c7cb11be21aed3b863c942e2ff24ca142f5c823e98619b6f2d51_b2d6023a045ffe67.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-68181592bb733dae122d3b64e1de4f4734093f97f281f2b54924866e774ebaf2_f6ecdeb2b38d7ccd.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-93671464b3a1261b76f0e4c3a6dd6941b10cfb45b9b51a8e7480e4ab46b291ea_175d3ba2b5769048.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-631532726778ca3c744411c802023fe4095792b68be008583cc9c09f1663de74_605d7033705af894.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-a0b6f7bb332ef34084665de2267d009183dde248137668f4aa355a1c5e24dde9_ad31422bd4512ebc.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-a4004c1dc86835279206cf76908c50a47fb14e927973c3dd988173961a34d8fc_cda62f9b90c53c5.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-b4a0066982b3825cacb75c5b179f5fb85e74ff1d96558f513f999244c00f7f74_b21d519041302929.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-b7a8e6d5c5e54bcdec98f7ea3c1572b6b10d05b19425b5850d78be5b1c16c284_e62d8a22ec6498e2.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-bb240c486ee77876010c78d2a640cd922e7b9349ae755219622aad0008e31371_fd309097ecf85561.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-bf4d0bef58c860b154346def7eef613be991c35223fd997a6672b131476c859c_ee899a79759528f1.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-cc510bf01decb36ba1d01c61d57692606b11308d82631f346e10e5fec3b836b8_3cdb3ee8c9d2c48b.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-d9c7574cad76f8dfa846717eed2d1fc1403c8c5c460a6fe9784d166b571df19f_3bd749be713294.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-e7137b6caacded103ba1b953b18d19e13ae5f49c67535210d69cc776b9ba65eb_abb0f83b58635e1b.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-facc6e495bb5eb3cfc32d75fcfe96b59cedfc1d0ea0abadda90eeb81391a0527_ff13b4a41eb0d4f0.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-fb647bb69c0fda63100c0e3b87912778818681a20f94ee035efaee1e7c3d1b42_6fe7f012bab03303.jpg",
-"https://nextusedcar.gr/wp-content/uploads/2023/11/0-02-05-1a86ff1046f6d226102218c35054c8d28a70d5dd27bff93bcd880c388e5d89d6_fc95c8bf96dd1ea2.jpg"
-    ]
-     }
-              ]
-        }
-     
-         
-   
+         "car_url": "https://www.car.gr/classifieds/cars/view/341355807-citroen-c1",
+         "images": [
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-991bfe05d732b656cd33cf82ccea7fe43d6c34da3d505d0317fdbd8c089f461f_a61606ea869b948e.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-1543794111d2ec7cfdf4af02036a99c4d134bdfd13394e80317a660e338655ae_e7e346787776524b.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-4e8a8d3855e6ade931bbf0ce9dec0805c0fd8afb8551f2d0a01678f87ebbc2dc_88346d7b83748292.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-05d8854b39c8e9533306130dd3dd7e92694818025fb45ebac1c2fcbe2b0079fd_7a98ae4ed27aeb6f.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-7c471bfdd53ae57e433097fc9cdf5d623e37ca36e456e72445500d1662b1d4a0_cef6e6d2e595b5c8.jpg"
+         ]
+      },
+      {
+         "car_url": "https://www.car.gr/classifieds/cars/view/340988568-hyundai-i-20",
+         "images": [
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-cbe28e5aaea18ff43afea65d6e748a15da2166cca51acea79e5726184ff72f94_e83d0c43a8bc41dd.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-d178c1e183b650a7e297afe0d192874724fae56e6ac1c75cb330e57122056210_ae23a73b31d56f45.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-6b4568d93b9253cac5a68c773455a521a2246a56cec0558ea093013c3e4b6baf_d94b2db90a4e285e.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-13c374a9ac7683ef246a301f9b00489ad8d4ac5c476c0a84deb9322e2e48821a_c2338109508c6653.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-0449747c0c8773adb86f1d2ae58f53c017fc0ea49f0e170b1ebf7b4d91aa88a9_cf490615e60cba8f.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-a2b8c26316fa5ac14aab1b831bf8c40595d21bdec0fcf41796ebd2832eb204d1_f85db67dd9ea2e4e.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-c8e6d945b31e7b781be36ab5743a69cea2aad3187cba2f9f2d7e290f454c06af_dcf212f75ff0f16c.jpg"
+         ]
+      },
+      {
+         "car_url": "https://www.car.gr/classifieds/cars/view/340320048-bmw-116",
+         "images": [
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-e206b03acb0b3aefc63c33ecfb2bf1d1eb6d09259c74e3b3503b12988629706f_c6415185f66f73e9.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-f6f71169a3de667605cb8a8d81f35ecd9c0958ae3eceffa75e752df09ed527c2_bbdbe6137f69ae4d.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-1cd30bf7ccd980547eb061928558c8b3a91762d1175ec816544b1c24b4580bb3_8688fecbe5e2e8dc.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-2bca28eef94d58c0a6ec00804b9ce101473759d920059b30a7a7191252d76330_ab4e50ae6c63a23f.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-11adcc6928dea75a4c1e5eed956d003974775a877fb92e8702ddcd9598246747_ae4734cc03b983d4.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-52d8ab3b3694a826c6c8210282f5bab23fc8a822d4921956b3868fac6046d237_ec0904290900ad77.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-993b80c872dba284a1edd10f9176c1a2b3eb11e00805702de0177c49e9cec954_6294ea499ff4ce4f.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-64662419aa9560aa731a1871962b3e259fa8b07ef28db039773fe2e34f081554_42e77211f7578c27.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-b5408be036b5024b99116c0bca93f4806805af940a018cff06b271b4d3050103_758fa30978dd5e06.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-e5bca0a14ddbb463b7e84bb512d964b7ae37d5bcebc6f2600ca208fe9cd034a0_8334038c7964a1d0.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-e8c5c7295ac8501ad3fc005f17ac43728f6150f4c1b4d88b3464b165eb2313ef_c82480b9de46ce22.jpg"
+        ]
+      },
+      {
+         "car_url": "https://www.car.gr/classifieds/cars/view/341559346-hyundai-i-20",
+         "images": [
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-d0ef278ab076557eee6e556317b43a84909e6670bcc81c090d49fe44f98a7e33_c8e70ea7a07fb776.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-f8727c36426d1b843b22d3fe5f6337371532552d8899f3bf502ec1787816edb6_983b8a7eec9ed764.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-3ef16cd294cc4681cd1831bf6a357116823821f01aeb698ac86ef74e5afe14c2_84d04ea10477dbf.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-8aa32b2f90d0fc70851a3ad99fe948b11921c0dd6e2a243107154c586731951a_62d820ff92763d64.jpg",
+           "https://nextusedcar.gr/wp-content/uploads/2024/05/0-02-05-958aab69578631cead33fbd01fd8841def69c5d55d035df19efb42ef88b3ed21_96bc0e6e083a2c6a.jpg"
+         ]
+      }
+   ]
+}
