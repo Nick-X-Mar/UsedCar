@@ -57,7 +57,8 @@ async function convertDataToXML(filePath) {
             // let spanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
             // let spanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
             // let spanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
-            let spanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
+            // let spanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
+            let spanXPath = '//*[@id="__layout"]/div/div[6]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[1]'
             let spanElement = await page.$x(spanXPath);
             if (spanElement.length === 0) {
                 // Element not found, continue to the next URL
@@ -95,7 +96,7 @@ async function convertDataToXML(filePath) {
 
             let subtitleText = "";
             // let subspanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[2]'
-            let subspanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[2]'
+            let subspanXPath = '//*[@id="__layout"]/div/div[6]/div/div/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div/div/h1/div[2]'
             let subspanElement = await page.$x(subspanXPath);
             try {
                 subtitleText = await page.evaluate(element => element.textContent, subspanElement[0]);
@@ -111,7 +112,7 @@ async function convertDataToXML(filePath) {
             // spanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div[1]/div[1]/div[7]/div[2]/div/div[1]/div/span'
             // spanXPath = '//*[@id="__layout"]/div/div[5]/div[3]/div/div/div/section/div/div/div/div/div/div[1]/div[1]/div[8]/div[2]/div/div[1]/div/span'
             // spanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[1]/div[7]/div[2]/div/div[1]/div/span'
-            spanXPath = '//*[@id="__layout"]/div/div[5]/div/div/div/div/div[1]/div[1]/div[8]/div[2]/div/div[1]/div/span'
+            spanXPath = '//*[@id="__layout"]/div/div[6]/div/div/div/div/div[1]/div[2]/div/div[1]/div[2]/div[1]/div/div/div/div[1]/span/span'
             spanElement = await page.$x(spanXPath);
             try {
                 descriptionText = await page.evaluate(element => element.textContent, spanElement[0]);
@@ -180,7 +181,9 @@ async function convertDataToXML(filePath) {
             }
 
             // Click the second button by its text
-            const secondButtonSelector = '//div[contains(text(), "Περισσότερα")]';
+            // const secondButtonSelector = '//div[contains(text(), "Περισσότερα")]';
+            const secondButtonSelector = '//*[@id="__layout"]/div/div[6]/div/div/div/div/div[1]/div[1]/div[5]/div/div/div[2]/div/div/div[2]/button';
+            
             try {
                 await sleep(Math.random() * 500 + 500);
                 const secondButton = await page.$x(secondButtonSelector).then(res => res[0]);
